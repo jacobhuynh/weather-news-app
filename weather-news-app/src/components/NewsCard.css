@@ -1,0 +1,16 @@
+.news-card {
+    width: 250px;
+    min-height: 550px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+    text-align: center;
+    flex-shrink: 0;
+    background-color: #d1dff6;
+}
+
+img {
+    width: 100px;
+    height:auto;
+}
